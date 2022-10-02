@@ -16,5 +16,8 @@ The application provides information on routes, location of stations, informatio
 ![GitHub last commit](https://img.shields.io/github/last-commit/Llevi94/Llevi94.github.io?color=red&style=plastic)
 
 
+------------------
+
+<img src = "http://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" width="200" height="200">
 
 
