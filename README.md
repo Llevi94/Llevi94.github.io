@@ -11,9 +11,9 @@ The application provides information on routes, location of stations, informatio
 </p>
 
 
-![GitHub language count](https://img.shields.io/github/languages/count/lironlevi94/lironlevi94.lightrail.github.io)
-![GitHub top language](https://img.shields.io/github/languages/top/lironlevi94/lironlevi94.lightrail.github.io?color=yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/lironlevi94/lironlevi94.lightrail.github.io?color=red&style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Llevi94/Llevi94.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/Llevi94/Llevi94.github.io?color=yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/Llevi94/Llevi94.github.io?color=red&style=plastic)
 
 
 
